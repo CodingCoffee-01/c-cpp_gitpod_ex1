@@ -1,9 +1,7 @@
 # List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
 tasks:
   - init: echo 'init script' # runs during prebuild
-    command: echo 'start script'
-    command: gcc hello.c a1.out
-    command: g++ hello.cpp a2.out
+    command: echo 'start script' && gcc  hello.c -o a1.out  && g++  hello.cpp -o a2.out
 
 # List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
