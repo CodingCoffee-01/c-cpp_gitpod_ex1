@@ -1,9 +1,9 @@
-# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+# CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
 tasks:
   - init: echo 'this is c c++ hello gitpod example' # runs during prebuild
     command: echo 'build hello.c and hello.cpp' && gcc  hello.c -o a1.out  && g++  hello.cpp -o a2.out
 
-# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
+# CodingCoffee  C/C++ GitPod Examples more courses : http://www.codingcoffee.org
 ports:
   - port: 3000
     onOpen: open-preview
