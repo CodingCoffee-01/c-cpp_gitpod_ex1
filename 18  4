@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+#define N 3
+#define N1 9
+int main()
+{
+    int i, a[N]={3,4,1,};
+    
+    for(i=0;i<N;i++){
+        printf(" a[%d]= %d \n",i,a[i]);
+    }
+    
+    for(i=0;i<N;i++){
+       printf(" %d * %d =%d \n",i,1,i*1);
+    }
+    cout <<"Hellow World";
+       
+    return 0;
