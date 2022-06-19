@@ -1,0 +1,31 @@
+
+# file and folder management 
+
+mkdir 
+
+cd 
+
+rmdir 
+
+rm -rf    
+
+cat   
+
+diff  
+
+nl 
+
+cp  
+
+mv 
+
+du 
+
+#   Software intallation 
+apt 
+
+#    network management 
+ifconfig 
+
+ping 
+
