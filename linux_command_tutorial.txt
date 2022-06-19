@@ -40,3 +40,21 @@ git remote -v
 
 git remote rename origin old-origin
 git remote add origin https://github.com/xxxxx/xxxxxxx.git
+
+//  Text Edit Simple operation
+
+vi 
+
+esc 
+
+q   or q! 
+
+wq
+
+wq
+
+nano 
+
+ctrl s 
+
+ctrl x 
