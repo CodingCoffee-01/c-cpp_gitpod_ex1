@@ -29,6 +29,11 @@ ifconfig
 
 ping 
 
+#       OS Version 
+
+cat /etc/os-release
+lsb_release -a
+
 #       git commands
 
 git status 
