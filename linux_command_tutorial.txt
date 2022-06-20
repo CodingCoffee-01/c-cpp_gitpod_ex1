@@ -24,7 +24,7 @@ du
 #   Software intallation 
 apt 
 ex: sudo apt-get update 
-
+    sudo apt install net-tools
 #    network management 
 ifconfig 
 
